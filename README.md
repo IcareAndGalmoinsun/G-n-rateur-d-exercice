@@ -1,1 +1,1 @@
-# G-n-rateur-d-exercice
+# Generateur-exercice
